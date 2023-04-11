@@ -49,6 +49,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Laura Barros](https://img.shields.io/badge/-lbarrosf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lbarrosf/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/lbarrosf/))
-[![Gmail Badge](https://img.shields.io/badge/-lbarros.f14@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lbarros.f14@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub Laura Barros]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB) 
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-lbarrosf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](linkedin.com/in/lbarrosf)
+[![Gmail Badge](https://img.shields.io/badge/-lbarros.f14@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lbarros.f14@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](github.com/lbarrosf)
+
