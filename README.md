@@ -12,7 +12,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Objetivos de linguagens**
+**Objetivos de linguagens aprendizado**
 <br>
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -21,7 +21,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)</br>
  
 
-**Utilidades**
+**Objetivos de utilidades**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
