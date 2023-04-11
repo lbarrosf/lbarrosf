@@ -1,6 +1,6 @@
 
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=lbarrosfs&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
@@ -48,5 +48,5 @@
 
 ![<a href="linkedin.com/in/lbarrosf">Linkedin: Laura](https://img.shields.io/badge/-lbarrosf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lbarrosf)</a>
 [![Gmail Badge](https://img.shields.io/badge/-lbarros.f14@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lbarros.f14@gmail.com) <a href="https://github.com/lbarrosf">
-![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)</a>
+![GitHub SEU NOME]( https://img.shields.io/github/followers/lbarrosf?label=follow&style=social)</a>
 
