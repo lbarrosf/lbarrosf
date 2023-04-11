@@ -4,14 +4,15 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software. após alguns estudos relacionado a User Experience focada na parte de research e design. Encarei como desafio me aprodundar e desenvolver como profissional de TI.
-- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** no <a href="https://estacio.br/">SUA FACULDADE</a>.
+- 🤔 &nbsp; Explorando novas tecnologias após alguns estudos relacionado a User Experience focada na parte de research e design. <br>
+            Encarei como desafio me aprodundar e desenvolver como profissional de TI.</br>
+- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** no <a href="https://estacio.br/">Estácio</a>.
 - 💼 &nbsp; Trabalhando como **Analista de CS** na <a href="https://www.segfy.com/">Segfy</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Html; Java e Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Objetivos de linguagens**
 <br>
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
