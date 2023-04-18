@@ -39,10 +39,6 @@
 
 <br/>
 
-<a href="https://github.com/lbarrosf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbarrosf&theme=dracula&show_icons=true" />
-</a>
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
